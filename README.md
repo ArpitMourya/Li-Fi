@@ -31,3 +31,18 @@ The Li-Fi receiver circuit consists of several components that work together to 
 ## Measurement values: ##
 - Vref - 2.22V
 - Vamp	1.4V - 2.5V
+## Code for serial communication
+
+There are to python code
+- [dark_mode_gui.py](https://github.com/ArpitMourya/Li-Fi/blob/main/dark_mode_gui.py) is the complete GUI application with multiple type of file transfer options like audio, image etc.
+- [main.py](https://github.com/ArpitMourya/Li-Fi/blob/main/dark_mode_gui.py) is a basic testing program which can be used to send text only.
+## Future Advansments ##
+Currently this setput can achive heighest baudrate up to baud 40.
+but for more advansments photodiode should be used this can go up to 4 MBp/s with same code.
+
+    
+## Authors
+
+- [@Arpit Mourya ](https://github.com/ArpitMourya)
+- [@Yashdeep Kumrawat ](https://github.com/YashdeepKumrawat)
+
