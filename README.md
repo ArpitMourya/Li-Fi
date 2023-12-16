@@ -44,5 +44,5 @@ but for more advansments photodiode should be used this can go up to 4 MBp/s wit
 ## Authors
 
 - [@Arpit Mourya ](https://github.com/ArpitMourya)
-- [@Yashdeep Kumrawat ](https://github.com/YashdeepKumrawat)
+- [@Yashdeep Kumrawat ](https://github.com/YashdeepKum)
 
